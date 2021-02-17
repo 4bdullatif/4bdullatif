@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **4bdullatif/4bdullatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<pre><code>
+            __     __
+           /  \~~~/  \
+     ,----(     ..    )
+    /      \__     __/
+   /|         (\  |(
+  ^ \   /___\  /\ |   <b><i>-Boo!</i><b/>
+     |__|   |__|-"    
+
+</code></pre>
